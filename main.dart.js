@@ -80171,7 +80171,7 @@ $0(){var s
 try{A.HE(A.eQ(this.a.d,0,null))}catch(s){}},
 $S:0}
 A.Zq.prototype={
-$2(a,b){return A.dF(A.a([A.atG("images/my_avatar.png",this.a.b*0.7)],t.D),B.cD,B.hl,B.a1,0)},
+$2(a,b){return A.dF(A.a([A.atG("assets/images/my_avatar.png",this.a.b*0.7)],t.D),B.cD,B.hl,B.a1,0)},
 $S:491}
 A.Zu.prototype={
 $1(a){return new A.eJ(new A.Zr(this.a),null)},
@@ -80188,7 +80188,7 @@ n=t.D
 return A.afc(new A.bO(new A.av(j,k,j,k),A.dF(A.a([A.fo(A.jA(B.H,new A.bO(new A.av(r,0,r,0),A.uG(m,m,m,B.bw,m,m,!0,m,A.bK(A.a([A.bK(m,q.tX(A.K(l).ax.b,B.v),"I'm "),A.bK(m,q.tX(A.K(l).p2.z.b,B.v),"Kyaw Phyoe Han")],t.VO),p,"Hello, "),B.B,m,m,B.ah,B.az),m),B.A,B.bl),1),A.fo(A.jA(B.H,A.bs("Flutter Developer And Software Engineer",m,m,m,q.bY(A.K(l).db),m,m),B.A,B.bl),1),A.fo(new A.eJ(new A.Zn(),m),5),A.b1(m,o,m),A.fo(A.jA(B.H,A.awo(A.a([A.aAu(u.f,q.bU(A.K(l).db,26,B.v))],t.u6)),B.A,B.bl),5),A.b1(m,o,m),A.fo(A.b1(A.dF(A.a([A.bs("Find me on",m,m,m,q.bU(A.K(l).ch,12,B.em),m,m),A.fo(A.nh(A.X(new A.Y(B.jq,new A.Zo(),t.EQ),!0,t.l7),B.S,B.a0,B.a1,s*0.015),1)],n),B.S,B.a0,B.a1,0),m,s*0.35),2)],n),B.S,B.a0,B.a1,0),m))},
 $S:198}
 A.Zn.prototype={
-$2(a,b){return A.atG("images/my_avatar.png",b.d)},
+$2(a,b){return A.atG("assets/images/my_avatar.png",b.d)},
 $S:492}
 A.Zo.prototype={
 $1(a){var s=null
@@ -80339,7 +80339,7 @@ l.push(new A.Jy(m,B.aO,!1,s.ax,n,r,n,!1,n,0,n,n,B.al,B.k9,n,B.Q,B.an,new A.pR("m
 return new A.qi(A.lE(B.H,l,B.Q,B.c7,n),B.F,n)},
 $S:496}
 A.a5s.prototype={
-$1(a){var s=null,r=A.atG(A.K(this.a).ax.a===B.a7?"images/bg_1.jpg":"images/bg_white_1.jpg",s)
+$1(a){var s=null,r=A.atG(A.K(this.a).ax.a===B.a7?"assets/images/bg_1.jpg":"assets/images/bg_white_1.jpg",s)
 return A.th(s,new A.dC(s,new A.ti(r.c,B.lQ),s,s,s,s,B.aP),B.cj)},
 $S:497}
 A.a5t.prototype={
